@@ -1,0 +1,72 @@
+1. Write a program to accept and display an array
+2. Menu driven singly linked list (Insert, Display, Search/other requested operation)
+3. Menu driven static stack implementation
+4. Write a program for traversing operation on linear array
+5. Menu driven singly linked list (Insert, Display, Search/other requested operation)
+6. Menu driven static stack implementation
+7. Write a program for insertion operation on linear array
+8. Menu driven singly linked list (Insert, Display, Search/other requested operation)
+9. Menu driven static stack implementation
+10. Write a program for deletion operation on linear array
+11. Menu driven doubly linked list
+12. Menu driven static stack implementation
+13. Write a program for searching operation on linear array
+14. Menu driven doubly linked list
+15. Menu driven static stack implementation
+16. Write a program for sorting operation on linear array
+17. Menu driven doubly linked list
+18. Menu driven static stack implementation
+19. Write a program for merging operation on linear array
+20. Menu driven singly linked list
+21. Menu driven dynamic stack implementation
+22. Write a program for linear search
+23. Menu driven singly linked list
+24. Menu driven dynamic stack implementation
+25. Write a program for binary search
+26. Menu driven singly linked list
+27. Menu driven dynamic stack implementation
+28. Write a program for Bubble Sort
+29. Menu driven singly linked list
+30. Menu driven dynamic stack implementation
+31. Write a program for Insertion Sort
+32. Menu driven doubly linked list
+33. Menu driven static queue implementation
+34. Write a program for Selection Sort
+35. Menu driven doubly linked list
+36. Menu driven static queue implementation
+37. Write a program for accessing an element in a 2D Matrix
+38. Menu driven doubly linked list
+39. Menu driven dynamic queue implementation
+40. Write a program for traversal of 2D Matrix
+41. Menu driven doubly linked list
+42. Menu driven dynamic queue implementation
+43. Write a program for searching in 2D Matrix
+44. Menu driven circular singly linked list
+45. Menu driven circular queue implementation
+46. Write a program for sorting in 2D Matrix
+47. Menu driven circular singly linked list
+48. Menu driven circular queue implementation
+49. Write a program for addition of 2D Matrix
+50. Menu driven circular singly linked list
+51. Binary Search Tree traversals (preorder, inorder, postorder)
+52. Write a program for subtraction of 2D Matrix
+53. Menu driven circular singly linked list
+54. Menu driven Binary Search Tree (create, height, ascending, level-wise)
+55. Write a program for transpose of 2D Matrix
+56. Menu driven circular doubly linked list
+57. Binary Search Tree (insert, inorder, preorder)
+58. Write a program for Sparse Matrix or Dense Matrix
+59. Menu driven circular doubly linked list
+60. Binary Search Tree (insert, inorder, postorder)
+61. Write a program to add two polynomials using a linked list
+62. Menu driven circular doubly linked list
+63. Binary Search Tree (insert, count non-leaf and leaf nodes)
+64. Write a program to evaluate prefix expression using a stack
+65. Menu driven circular doubly linked list
+66. Binary Search Tree (insert, count nodes and odd numbers)
+67. Write a program to evaluate postfix expression using a stack
+68. Menu driven Binary Search Tree
+69. Menu driven static stack implementation
+70. Write a program to evaluate infix expression using a stack
+71. Menu driven static stack implementation
+72. Menu driven circular doubly linked list
