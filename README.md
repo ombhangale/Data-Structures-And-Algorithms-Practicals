@@ -36,27 +36,87 @@ Each program is organized with a meaningful filename and question heading to mak
 ## Repository Structure
 
 ```text
+## Repository Structure
+
+```text
 Data-Structure-Practicals/
 │
 ├── AcceptAndDisplayArray.c
+├── SinglyLinkedList_Slip1.c
+├── StaticStack_Slip1.c
 ├── TraverseLinearArray.c
+├── SinglyLinkedList_Slip2.c
+├── StaticStack_Slip2.c
 ├── InsertLinearArray.c
+├── SinglyLinkedList_Slip3.c
+├── StaticStack_Slip3.c
 ├── DeleteLinearArray.c
+├── DoublyLinkedList_Slip4.c
+├── StaticStack_Slip4.c
+├── SearchLinearArray.c
+├── DoublyLinkedList_Slip5.c
+├── StaticStack_Slip5.c
+├── SortLinearArray.c
+├── DoublyLinkedList_Slip6.c
+├── StaticStack_Slip6.c
+├── MergeLinearArray.c
+├── SinglyLinkedList_Slip7.c
+├── DynamicStack_Slip7.c
 ├── LinearSearch.c
+├── SinglyLinkedList_Slip8.c
+├── DynamicStack_Slip8.c
 ├── BinarySearch.c
+├── SinglyLinkedList_Slip9.c
+├── DynamicStack_Slip9.c
 ├── BubbleSort.c
+├── SinglyLinkedList_Slip10.c
+├── DynamicStack_Slip10.c
 ├── InsertionSort.c
+├── DoublyLinkedList_Slip11.c
+├── StaticQueue_Slip11.c
 ├── SelectionSort.c
-├── SinglyLinkedList_*.c
-├── DoublyLinkedList_*.c
-├── StaticStack_*.c
-├── DynamicStack_*.c
-├── StaticQueue_*.c
-├── DynamicQueue_*.c
-├── BinarySearchTree_*.c
+├── DoublyLinkedList_Slip12.c
+├── StaticQueue_Slip12.c
+├── Access2DMatrixElement.c
+├── DoublyLinkedList_Slip13.c
+├── DynamicQueue_Slip13.c
+├── Traverse2DMatrix.c
+├── DoublyLinkedList_Slip14.c
+├── DynamicQueue_Slip14.c
+├── Search2DMatrix.c
+├── CircularSinglyLinkedList_Slip15.c
+├── CircularQueue_Slip15.c
+├── Sort2DMatrix.c
+├── CircularSinglyLinkedList_Slip16.c
+├── CircularQueue_Slip16.c
+├── Add2DMatrix.c
+├── CircularSinglyLinkedList_Slip17.c
+├── BSTTraversals_Slip17.c
+├── Subtract2DMatrix.c
+├── CircularSinglyLinkedList_Slip18.c
+├── BSTCreateHeightAscending_Slip18.c
+├── Transpose2DMatrix.c
+├── CircularDoublyLinkedList_Slip19.c
+├── BSTInsertInorderPreorder_Slip19.c
+├── SparseOrDenseMatrix.c
+├── CircularDoublyLinkedList_Slip20.c
+├── BSTInsertInorderPostorder_Slip20.c
+├── AddPolynomialsLinkedList.c
+├── CircularDoublyLinkedList_Slip21.c
+├── BSTCountNodesAndLeaves_Slip21.c
+├── EvaluatePrefixExpression.c
+├── CircularDoublyLinkedList_Slip22.c
+├── BSTCountNodesAndOdd_Slip22.c
+├── EvaluatePostfixExpression.c
+├── BinarySearchTree_Slip23.c
+├── StaticStack_Slip23.c
+├── EvaluateInfixExpression.c
+├── StaticStack_Slip24.c
+├── CircularDoublyLinkedList_Slip24.c
 │
 └── README.md
 ```
+
 
 *Note: The above structure is an example. Actual filenames may vary.*
 
