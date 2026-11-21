@@ -125,7 +125,6 @@ Data-Structure-Practicals/
 The main purpose of this repository is to:
 
 - Understand fundamental Data Structure concepts.
-- Improve C programming skills.
 - Practice logical problem-solving.
 - Prepare for practical examinations.
 - Maintain all practical programs in one place.
